@@ -40,5 +40,6 @@
 > 链接fofa之类的平台
 
 ### 效果展示
+均为通用，过5kw的哦~
 
 ![image](https://github.com/eeeeeeeeee-code/e0e1-cnvd/assets/115862499/1994ecc8-35db-40ae-8a4d-e333c8450a80)
