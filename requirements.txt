@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+colorama==0.4.6
+pandas==2.0.1
+PyYAML==6.0.1
+Requests==2.31.0
