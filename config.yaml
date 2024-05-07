@@ -1,0 +1,14 @@
+cnvd:
+    cnvd-file:
+        "cnvd_file_xlsx": "./result/cnvd_result.xlsx"
+        "cnvd_bug_file": "./result/cnvd_bug.xlsx"
+        "cnvd_product_file": "./result/cnvd_product.xlsx"
+    cnvd-condition:
+        cnvd_true_re:  ["有限", "公司", "股份", "技术"]
+
+edu:
+    edu-file: "./result/edu_result.xlsx"
+
+cnvd_token:
+    ua: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    cookie: ""
