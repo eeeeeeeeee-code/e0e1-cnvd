@@ -403,6 +403,8 @@ def main_task():
     |               -- by: eeeeee --                 |         
     |      -- 该工具仅用于学习参考，均与作者无关 --  |              
      ------------------------------------------------
+   |下载地址：https://github.com/eeeeeeeeee-code/e0e1-cnvd |
+    -----------------------------------------------------
            '''))
 
     for arg, action in task_items.items():
