@@ -44,3 +44,5 @@
 均为通用，过5kw，且危害够的哦~
 
 ![image](https://github.com/eeeeeeeeee-code/e0e1-cnvd/assets/115862499/1994ecc8-35db-40ae-8a4d-e333c8450a80)
+
+![0482e1b53827cb22e5407b3608551c6](https://github.com/eeeeeeeeee-code/e0e1-cnvd/assets/115862499/82683eeb-5b42-4ff6-b536-91c08efdfb2f)
